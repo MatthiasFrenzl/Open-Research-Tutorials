@@ -1,3 +1,15 @@
+
+```Mermaid
+graph TD
+    A[Christmas] -->|Get money| B(Go shopping)
+    B --> C{Let me think}
+    C -->|One| D[Laptop]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[fa:fa-car Car]
+    D-->\
+```
+
+
 Open_Research_Tutorial_Matthias
 
 ## Software Setup
@@ -42,7 +54,7 @@ Open_Research_Tutorial_Matthias
 
          <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
          For each chapter/section a dedicated branch?
-         </div>         
+         </div>
 
 
 
