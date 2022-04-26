@@ -94,3 +94,11 @@ Open_Research_Tutorial_Matthias
 
 - Mybinder.org
   -> generates Docker image
+
+
+  # Build a book
+  Follow the instructions found
+  1) [Here](https://github.com/alan-turing-institute/the-turing-way/tree/main/book)
+  2) [Then here](https://jupyterbook.org/en/stable/advanced/pdf.html)
+
+[See also](#Software-Setup)
