@@ -91,6 +91,8 @@ Open_Research_Tutorial_Matthias
 - **Create a Poster (Latex)**
 - Harvard Ads
 - Cambridge Distribution Server
+- Conferences we could present the paper (poster sessions)
+- Youtube Video of the presentation (Zoom session)
 
 - Mybinder.org
   -> generates Docker image
