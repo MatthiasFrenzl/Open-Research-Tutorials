@@ -17,5 +17,10 @@ A21 --> A22[Resources] --> A22A[Peck, Mason, IAC 2022 Paper]
 #Thermodynamical Costs
 
 
-            
+:::success
+Jarzynski’s
+:::
+
+#### Energetic Costs
+This “distance from equilibrium” is characterized by the nonequilibrium generalized free energy (Esposito and Van den Broeck 2011; Parrondo, Horowitz, and Sagawa 2015). 
 
