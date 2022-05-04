@@ -1,1 +1,0 @@
-What if you could build the camera you need at proxima-b on site? Like an apple tree seed needs only the right pressure, temperature, and molecules surrounded in addition to radiation shielding and photons in a particular amount (what about magnetism or elektromagnetism?) to become an apple tree

@@ -1,16 +1,4 @@
-test
-```mermaid
-graph TD
-    A[Christmas] -->|Get money| B(Go shopping)
-    B --> C{Let me think}
-    C -->|One| D[Laptop]
-    C -->|Two| E[iPhone]
-    C -->|Three| F[fa:fa-car Car]
-    D-->\
-```
-
-
-Open_Research_Tutorial_Matthias
+# Open_Research_Tutorial_Matthias
 
 ## Software Setup
 ### Mac OS
