@@ -2,6 +2,11 @@
 
 ###### tags: `Templates`
 
+
+## Tutorials
+- **Fair Cookbook** -> [Fair Cookbook](https://faircookbook.elixir-europe.org)
+- **How to use Markdown Editors with Github** [HackMD/CodiMD to Github integration](https://faircookbook.elixir-europe.org/content/recipes/help/how-to-create-recipe-with-hackmd.html) 
+
 ## Tools
 - Research Data Sharing
     * [Figshare](https://figshare.com)
@@ -15,8 +20,8 @@
 ## Editors
 
 ### All Platforms
-- HackMD.io
-test2
+- Github via HackMD.io [Chrome Browser Extension](https://chrome.google.com/webstore/detail/hackmd-it/cnephjboabhkldgfpdokefccdofncdjh)
+
 ### Mac OS
 - Markdown Word Processor *Atom*
   - [Tutorial](https://www.portent.com/blog/content/atom-markdown.htm)
