@@ -1,5 +1,7 @@
 # Open_Research_Tutorial_Matthias
 
+###### tags: `Templates`
+
 ## Software Setup
 ### Mac OS
 - Markdown Word Processor *Atom*
