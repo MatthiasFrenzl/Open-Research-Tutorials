@@ -2,7 +2,21 @@
 
 ###### tags: `Templates`
 
-## Software Setup
+## Tools
+- Research Data Sharing
+    * [Figshare](https://figshare.com)
+    * [Zenodo](https://zenodo.org/record/5103176#.YnZ5Xy8RpUk)
+    * Example:
+        * https://github.com/pyspeckit/pyspeckit
+        * https://zenodo.org/record/6470904#.YnZlly8RpUm
+
+
+# Software Setup
+## Editors
+
+### All Platforms
+- HackMD.io
+test2
 ### Mac OS
 - Markdown Word Processor *Atom*
   - [Tutorial](https://www.portent.com/blog/content/atom-markdown.htm)
@@ -19,6 +33,9 @@
 - Working Copy
 - Juno (Jupyter Notebook for iOS)
 - Markdown Word Processor
+
+## Github-Overleaf Sync
+- 
 
 ## Setup Open Research Project
 
@@ -41,11 +58,6 @@
          - Bibliography
          - Graphs (Mermaid and/or d3js)
          - Website (like Escape Summer School)
-
-         <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
-         For each chapter/section a dedicated branch?
-         </div>
-
 
 
 #### Best Practices: Project File Structure
