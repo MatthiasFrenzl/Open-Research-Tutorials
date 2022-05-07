@@ -16,6 +16,8 @@
         * https://github.com/pyspeckit/pyspeckit
         * https://zenodo.org/record/6470904#.YnZlly8RpUm
 
+- **Fair Cookbook Stack** -> [Technology Stack](https://faircookbook.elixir-europe.org/content/recipes/afterword.html)]
+![](https://hackmd.io/_uploads/rJCAZEEIq.png)
 
 # Software Setup
 ## Editors
