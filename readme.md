@@ -1,4 +1,4 @@
-# Open Research Cheatsheet Matthias
+# Open Research Cheatsheet
 
 ###### tags: `Tutorials`
 
