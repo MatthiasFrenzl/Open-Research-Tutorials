@@ -1,13 +1,16 @@
-# Open Research Cheatsheet
+# Open Research One-Pager
+
 
 ###### tags: `Tutorials`
 
 ## Tutorials
 ### Open Science - General
 Start with the following tutorials:
+- Start with that one - that's a great summary: **[Reproducibility Starts from You Today](https://www.sciencedirect.com/science/article/pii/S2666389920301331)**
 - **The Turing Way** -> [Turing Way Tutorial](https://the-turing-way.netlify.app/welcome)
 - **Fair Cookbook** -> [Elexir Europe - Fair Cookbook](https://faircookbook.elixir-europe.org)
 - **Open Science** -> [Open Science Foundation](https://osf.io) and [Open Science Project](https://openscience.org/what-exactly-is-open-science/) and [Opening Science](http://www.openingscience.org/get-the-book/) and [Open Science Training Book](https://github.com/Open-Science-Training-Handbook/Open-Science-Training-Handbook_EN/tree/1.0)
+
 
 ### Open Science - Special
 - **Fair Sharing** -> [Fair Sharing Data Management Plans](https://fairsharing.org)
@@ -26,6 +29,7 @@ Start with the following tutorials:
   * [Project Tags and Labels](https://github.com/FAIRplus/the-fair-cookbook/labels)
   * [Github Repo - Research paper example from Ocean Transport Research](https://github.com/ocean-transport/3D_tracer_inversion)
   * [Shablona Project Skeleton](https://github.com/uwescience/shablona)
+  * Of course, the obvious [Cookiecutter Data Science Template](https://github.com/drivendata/cookiecutter-data-science) with some explanation [here](https://drivendata.github.io/cookiecutter-data-science/#contributing)
   
 - **Organizing in Sprints**
      * Example from the [Ocean Transport Research](https://github.com/ocean-transport/science-together:)
@@ -33,16 +37,14 @@ Start with the following tutorials:
 
 
 ### Open Science Workflow
-![](https://hackmd.io/_uploads/ByWZxwUIc.png)
-
-Source: [TU Hamburg](https://www3.tuhh.de/itbh/kollaborieren-in-forschung-und-lehre/jupyter-notebook-und-jupyterlab.html)
+- **A tutorial from [TU Hamburg](https://www3.tuhh.de/itbh/kollaborieren-in-forschung-und-lehre/jupyter-notebook-und-jupyterlab.html)** figures the workflow as following:
+ <img src="https://hackmd.io/_uploads/ByWZxwUIc.png" alt="drawing" width="400">
 
 ### Open Science Best Practices
 - **[Best Practices Paper from the Carpentry Team](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005510&type=printable)**
 - **[The Good Research Code Handbook](https://goodresearch.dev/index.html)** from Patrick Mineault
-- **[Best Practices and Python Tutorial](https://github.com/sparks-baird/auto-paper)** from Prof. Tayler Sparks.
+- **[Best Practices and Python Tutorial](https://github.com/sparks-baird/auto-paper)** from Sterling Baird and Tayler Sparks:
 ![](https://hackmd.io/_uploads/S1_NJ2I85.png)
-
 
 
 ### Markdown Tools
@@ -98,6 +100,7 @@ click A3 "https://jupyterbook.org/en/stable/content/myst.html"
 - **Markdown to ppt** -> [RISE Extension](https://rise.readthedocs.io/en/jupyterlab_extension/)
 - **[Jupyter Notebook Viewer](https://nbviewer.org)** to share Jupyter Notebooks. Find an example [here](https://nbviewer.org/github/executablebooks/jupyter-book/blob/feae907073cd76a0ea71c9387fd1791de0b7a4e0/docs/file-types/notebooks.ipynb)
 - **[Mybinder.org](https://mybinder.org/)** -> [Example](https://mybinder.org/v2/gh/executablebooks/jupyter-book/feae907073cd76a0ea71c9387fd1791de0b7a4e0?filepath=docs/file-types/notebooks.ipynb)
+- **[Convert Jupyter Notebook to xyz](https://jupyterbook.org/en/stable/file-types/jupytext.html?highlight=jupytext)** -> [Jupytext Tutorial](https://jupytext.readthedocs.io/en/latest/formats.html)
 
 #### Academic Webpages Tutorials
 - **[Academic Pages Tutorial](https://academicpages.github.io)** and [implementation](https://github.com/academicpages/academicpages.github.io)
@@ -119,6 +122,9 @@ click A3 "https://jupyterbook.org/en/stable/content/myst.html"
 - **Fair Cookbook Stack** -> [Technology Stack](https://faircookbook.elixir-europe.org/content/recipes/afterword.html)]
 ![](https://hackmd.io/_uploads/rJCAZEEIq.png)
 
+###  Licencing your work
+- See **[Turing Way Book](https://the-turing-way.netlify.app/reproducible-research/licensing.html)** and [all the other tutorials](#Tutorials) in that section. That's a beast of its own 
+- Put a **[CITATION.cff](https://the-turing-way.netlify.app/communication/citable/citable-cff.html?highlight=citation%20cff)** to every data set and code
 
 
 
@@ -163,10 +169,20 @@ click A3 "https://jupyterbook.org/en/stable/content/myst.html"
 
 
 ### Coach and Preview
-- Find Coach
+- Find a coach
 - Open Peer Review
 
 ### Marketing Communication
+In order to get cited, besides the [Open & Reproducable Science principles mentioned above](#Open-Science---General), follow this workflow: 
+- Register your report for peer review: **[Registered Reports: Peer review before results are known to align scientific values and practices.](https://www.cos.io/initiatives/registered-reports)** One can find a **[Tutorial about Open Peer Review here](https://www.fosteropenscience.eu/learning/open-peer-review/#/id/5a17e150c2af651d1e3b1bce)** and **[here](https://opensciencemooc.eu/modules/open-evaluation/)**.
+**Other sources of peer reviews:**
+   * https://peercommunityin.org
+   * Resources on the [Peer Reviewing Process](https://github.com/alan-turing-institute/the-turing-way/blob/ea2449bf2c92ea24b746f19c85da644ca338acc9/book/website/communication/peer-review/peer-review-resources.md)
+   * Kind of Open Peer Review, but rather a marketing tool: [Cambridge Engage](https://www.cambridge.org/engage/coe/public-dashboard)
+
+:::info
+Place a CITATION.cff file to each code and dataset -> that make it more likely and easier to get citations.
+:::
 - Doi Number
 - Research Gate
 - Arxiv Preprint
@@ -180,4 +196,31 @@ click A3 "https://jupyterbook.org/en/stable/content/myst.html"
 - Conferences we could present the paper (poster sessions)
 - Youtube Video of the presentation (Zoom session)
 
+## Some alternative research tools
+Be aware, research the usual ones first.
+- **[Preprint resource center](https://asapbio.org/preprint-info)**
+- **[Open access journals & articles](https://www.doaj.org)**
+- **[Registry of Open Access Repositories](http://roar.eprints.org)**
 
+
+
+## Workflow
+:::info
+Chart of the workflow
+:::
+Including Creating Github Repo, DOIs, Website, Marketing, Docstrings,
+:::info
+Table of tasks
+:::
+
+
+
+## Protocols
+:::info
+to be filled
+:::
+
+## Bibliography
+:::info
+to be filled
+:::
