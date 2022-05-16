@@ -1,4 +1,7 @@
-# Open Research One-Pager
+# Chapter 1 - Open Research One-Pager
+:::warning
+⚠️ May 2022 -  This repository is under construction - work in progress.
+:::
 
 
 ###### tags: `Tutorials`
@@ -21,7 +24,7 @@ Start with the following tutorials:
 
 ### Open Science Teaching and Workshops
 - **[The Carpentry Community](https://carpentries.org)** has a great [Workshop Template](https://github.com/malvikasharan/2020-02-10-turing) which looks like [this](https://carpentries.github.io/lesson-example/) or [this](https://alan-turing-institute.github.io/2020-02-10-turing/)(and here the [Repo](https://github.com/malvikasharan/2020-02-10-SwC-Turing))
-- There are also Tutorials on [How to create a lesson](https://github.com/malvikasharan/lesson-example)
+- There are also Tutorials on [How to create a lesson](https://github.com/malvikasharan/lesson-example) and [here](https://docs.carpentries.org/topic_folders/lesson_development/curriculum_advisory_committees.html#term-lengths-recruitment-and-onboarding)
 
 ### Open Science Project Management
 - Besides the above mentioned [Turing Way and Fair](#Open-Science---General) Tutorials [this one](https://github.com/malvikasharan/WhitakerLabProjectManagement) might also help.
@@ -114,7 +117,7 @@ click A3 "https://jupyterbook.org/en/stable/content/myst.html"
 - **Knowledge Graphs** -> [Fair Cookbook Knowledge Graph Example](https://faircookbook.elixir-europe.org/content/recipes/introduction/FAIR-and-knowledge-graphs.html) and [Fair Knowledge Graph Tools](https://faircookbook.elixir-europe.org/content/recipes/introduction/public-kg-resource-integration.html#) and [Knowledge Graph Completion](https://towardsdatascience.com/knowledge-graph-completion-with-pykeen-and-neo4j-6bca734edf43)
 
 ### Bibliography Tools
-- **[Zotero](https://www.zotero.org/)** and its Github Integrations - find a tutorial here
+- **[Zotero](https://www.zotero.org/)** and its Github Integrations - find a [tutorial here](https://github.com/sparks-baird/auto-paper/tree/main/ref-software)
 - **[BibTEX](http://www.bibtex.org/Using/)** with [Myst References](https://jupyterbook.org/en/stable/tutorials/references.html?highlight=bibtex) and [Sphinx](https://sphinxcontrib-bibtex.readthedocs.io/en/latest/usage.html#roles-and-directives)
 
 ## Tools
@@ -183,6 +186,10 @@ In order to get cited, besides the [Open & Reproducable Science principles menti
 :::info
 Place a CITATION.cff file to each code and dataset -> that make it more likely and easier to get citations.
 :::
+
+- A great inspiration to market the paper is the [following website](https://goodresearch.dev/). Particularly the Social batches are a great way to get followers:
+![](https://hackmd.io/_uploads/Hk-f32Jv9.png)
+
 - Doi Number
 - Research Gate
 - Arxiv Preprint
@@ -224,3 +231,7 @@ to be filled
 :::info
 to be filled
 :::
+
+## Example Repositories
+- **[ Auto Paper](https://github.com/sparks-baird/auto-paper)**
+- 
