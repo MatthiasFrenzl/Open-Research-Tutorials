@@ -107,6 +107,7 @@ click A3 "https://jupyterbook.org/en/stable/content/myst.html"
 
 #### Academic Webpages Tutorials
 - **[Academic Pages Tutorial](https://academicpages.github.io)** and [implementation](https://github.com/academicpages/academicpages.github.io)
+- **[Jemdoc Tutorial](http://www-personal.umich.edu/~wylguan/using-jemdoc.html) and [example](https://jeffjar.me/writing.html)
 ### Github
 - **Github to Overleaf LATEX Editor** -> [Tutorial 1](https://de.overleaf.com/learn/how-to/How_do_I_connect_an_Overleaf_project_with_a_repo_on_GitHub%2C_GitLab_or_BitBucket%3F) and [Tutorial 2](https://de.overleaf.com/learn/how-to/Using_Git_and_GitHub#Overleaf_GitHub_Synchronization)
 
